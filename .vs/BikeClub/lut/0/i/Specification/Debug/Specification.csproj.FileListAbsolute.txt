@@ -1,0 +1,2 @@
+E:\Archivos Edgar\PROYECTOS .NET\BikeClub\.vs\BikeClub\lut\0\i\Specification\Debug\Specification.csprojResolveAssemblyReference.cache
+E:\Archivos Edgar\PROYECTOS .NET\BikeClub\.vs\BikeClub\lut\0\i\Specification\Debug\Specification.csproj.CoreCompileInputs.cache

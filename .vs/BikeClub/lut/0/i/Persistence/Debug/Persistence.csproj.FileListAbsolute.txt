@@ -1,0 +1,8 @@
+E:\Archivos Edgar\PROYECTOS .NET\BikeClub\.vs\BikeClub\lut\0\b\Persistence\bin\Debug\CleanArchitecture.Persistence.dll.config
+E:\Archivos Edgar\PROYECTOS .NET\BikeClub\.vs\BikeClub\lut\0\b\Persistence\bin\Debug\CleanArchitecture.Persistence.dll
+E:\Archivos Edgar\PROYECTOS .NET\BikeClub\.vs\BikeClub\lut\0\b\Persistence\bin\Debug\CleanArchitecture.Persistence.pdb
+E:\Archivos Edgar\PROYECTOS .NET\BikeClub\.vs\BikeClub\lut\0\i\Persistence\Debug\Persistence.csprojResolveAssemblyReference.cache
+E:\Archivos Edgar\PROYECTOS .NET\BikeClub\.vs\BikeClub\lut\0\i\Persistence\Debug\Persistence.csproj.CoreCompileInputs.cache
+E:\Archivos Edgar\PROYECTOS .NET\BikeClub\.vs\BikeClub\lut\0\i\Persistence\Debug\Persistence.csproj.CopyComplete
+E:\Archivos Edgar\PROYECTOS .NET\BikeClub\.vs\BikeClub\lut\0\i\Persistence\Debug\CleanArchitecture.Persistence.dll
+E:\Archivos Edgar\PROYECTOS .NET\BikeClub\.vs\BikeClub\lut\0\i\Persistence\Debug\CleanArchitecture.Persistence.pdb

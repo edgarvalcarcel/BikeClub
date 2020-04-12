@@ -1,0 +1,8 @@
+E:\Archivos Edgar\PROYECTOS .NET\BikeClub\.vs\BikeClub\lut\0\b\Application\bin\Debug\CleanArchitecture.Application.dll.config
+E:\Archivos Edgar\PROYECTOS .NET\BikeClub\.vs\BikeClub\lut\0\b\Application\bin\Debug\CleanArchitecture.Application.dll
+E:\Archivos Edgar\PROYECTOS .NET\BikeClub\.vs\BikeClub\lut\0\b\Application\bin\Debug\CleanArchitecture.Application.pdb
+E:\Archivos Edgar\PROYECTOS .NET\BikeClub\.vs\BikeClub\lut\0\i\Application\Debug\Application.csprojResolveAssemblyReference.cache
+E:\Archivos Edgar\PROYECTOS .NET\BikeClub\.vs\BikeClub\lut\0\i\Application\Debug\Application.csproj.CoreCompileInputs.cache
+E:\Archivos Edgar\PROYECTOS .NET\BikeClub\.vs\BikeClub\lut\0\i\Application\Debug\Application.csproj.CopyComplete
+E:\Archivos Edgar\PROYECTOS .NET\BikeClub\.vs\BikeClub\lut\0\i\Application\Debug\CleanArchitecture.Application.dll
+E:\Archivos Edgar\PROYECTOS .NET\BikeClub\.vs\BikeClub\lut\0\i\Application\Debug\CleanArchitecture.Application.pdb

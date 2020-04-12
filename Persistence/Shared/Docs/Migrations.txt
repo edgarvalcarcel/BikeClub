@@ -1,0 +1,7 @@
+﻿Enable Migrations -ContextTypeName DatabaseContext -MigrationsDirectory Persistence\Shared\Migrations
+add-migration -ConfigurationTypeName CleanArchitecture.Persistence.Shared.Migrations.Configuration "001-InitialCreate"
+
+context.Riders.AddOrUpdate(t=>t.Id, DummyData.GetRiders().ToArray());
+context.SaveChanges;
+
+update-database --ConfigurationTypeName CleanArchitecture.Persistence.Shared.Migrations.Configuration
